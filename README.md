@@ -3,6 +3,8 @@
 <img src="https://github.com/anthoxdu13/Vidar-Tools/blob/main/vidar%20Tools.jpg?raw=true", width="500", height="500">
 </p>
 
+-----
+
 ### <p align="center">🔧・Vidar-Tools </p>
 <br><br>
 <p align="center">
@@ -13,13 +15,37 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 </fort>
 </p>
 <br>
+
 -----
 
-### <p align="center"> 📌 Clause de non-responsabilité 📌 </p>
+### <p align="center"> ⭐・Fonctionnalités</p>
+
+<br><br>
+<strong>Rapide & optimisé</fort>
+<br>
+<strong>Facilement personnalisable</fort>
+<br>
+<strong>WebHook Spammer</fort>
+<br>
+
+-----
+
+### <p align="center"> 📚・Documentation</p>
+
+<br><br>
+<strong>WebHook Spammer</fort>
+<br>
+<strong>Raid Bot avec un Token</fort>
+<br>
+<strong>💡Pour plus d'option rejoindre mon serveur [Discord]() </fort>
+<br>
+
+-----
+
+### <p align="center"> 📌・Clause de non-responsabilité</p>
 
 <br><br>
 * Veuillez utiliser ce programme uniquement à des fins éducatives.***
 * Il n’est pas destiné à être utilisé de manière malveillante, et je décline toute responsabilité pour ce que vous en faites.***
 <br><br>
 
------
