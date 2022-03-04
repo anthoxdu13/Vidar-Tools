@@ -13,3 +13,13 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 </fort>
 </p>
 <br>
+-----
+
+### <p align="center"> 📌 Clause de non-responsabilité 📌 </p>
+
+<br><br>
+* Veuillez utiliser ce programme uniquement à des fins éducatives.***
+* Il n’est pas destiné à être utilisé de manière malveillante, et je décline toute responsabilité pour ce que vous en faites.***
+<br><br>
+
+-----
