@@ -43,7 +43,7 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 <strong>Raid Bot avec un Token</fort>
 <br>
 <br>
-<strong>💡Pour plus d'option rejoindre mon serveur [Discord]() </fort>
+<strong>💡Pour plus d'option rejoindre mon serveur [Discord](https://discord.gg/ExdpKGkmYM) </fort>
 <br>
 <br>
 
