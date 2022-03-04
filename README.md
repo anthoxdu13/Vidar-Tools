@@ -4,3 +4,12 @@
 </p>
 
 ### <p align="center">🔧・Vidar-Tools </p>
+<br><br>
+<p align="center">
+<ong>
+Vidar Tools est un tools pour discord avec plusieurs option ( en DEV ) 
+<br>
+écrits en Python3. Il est très simple d'utilisation
+</fort>
+</p>
+<br>
