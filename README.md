@@ -18,6 +18,19 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 
 -----
 
+### <p align="center"> 💾・Installation</p>
+
+<br><br>
+<strong>git clone https://github.com/anthoxdu13/Vidar-Tools.git</fort>
+<br>
+<strong>Requiments :</fort>
+<strong>Pystyle</fort>
+<strong>Time</fort>
+<strong>Discord_webhook</fort>
+<br>
+
+-----
+
 ### <p align="center"> ⭐・Fonctionnalités</p>
 
 <br><br>
