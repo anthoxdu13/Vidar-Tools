@@ -28,6 +28,7 @@ Vidar Tools est un tools pour discord qui permet de spam un message avec un webh
 <strong>Time</fort>
 <strong>Discord_webhook</fort>
 <br>
+<strong>Executer Setup.bat</fort>
 
 -----
 
