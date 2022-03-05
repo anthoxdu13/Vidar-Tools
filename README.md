@@ -41,8 +41,11 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 <br>
 <br>
 <strong>Pour utiliser Vidar Tools il vous faudrat :</fort>
+<br>
 <strong>* WebHook (Lien)</fort>
+<br>
 <strong>* Vidar Tools</fort>
+<br>
 <strong>* Et c'est tout car il est simple d'utilisation</fort>
 <br>
 <br>
