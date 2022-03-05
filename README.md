@@ -40,7 +40,10 @@ Vidar Tools est un tools pour discord avec plusieurs option ( en DEV )
 <strong>WebHook Spammer</fort>
 <br>
 <br>
-<strong>Raid Bot avec un Token</fort>
+<strong>Pour utiliser Vidar Tools il vous faudrat :</fort>
+<strong>* WebHook (Lien)</fort>
+<strong>* Vidar Tools</fort>
+<strong>* Et c'est tout car il est simple d'utilisation</fort>
 <br>
 <br>
 <strong>💡Pour plus d'option rejoindre mon serveur [Discord](https://discord.gg/ExdpKGkmYM) </fort>
