@@ -9,7 +9,7 @@
 <br><br>
 <p align="center">
 <ong>
-Vidar Tools est un tools pour discord avec plusieurs option ( en DEV ) 
+Vidar Tools est un tools pour discord qui permet de spam un message avec un webhook discord
 <br>
 écrits en Python3. Il est très simple d'utilisation
 </fort>
