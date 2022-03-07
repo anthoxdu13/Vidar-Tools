@@ -26,11 +26,6 @@ def init():
 
     systeme()
 
-proxies = {
-  'http': 'http://10.10.1.10:3128',
-  'https': 'http://10.10.1.10:1080',
-}
-
 def webhook_spammer():
     System.Title("Vidar Tools WebHook Spammer")
     print(Colorate.Horizontal(color=Colors.red_to_yellow, text=Center.XCenter(ascii_art)))
@@ -44,7 +39,6 @@ def webhook_spammer():
         webhook = DiscordWebhook(url=url, content=Msg+" (with Vidar Tools for Discord)")
         response = webhook.execute()
         time.sleep(1)
-        rate = rate+1
         print(Colorate.Horizontal(Colors.yellow_to_red, "Le message est partie"))
     else:
       systeme()
